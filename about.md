@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /关于/
+permalink: /about/
 ---
 
 Nationturbo的博客

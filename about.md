@@ -11,4 +11,4 @@ weibo：Nationturbo
 
 ### Contact me
 
-[q137163@163.com](mailto:email@domain.com)
+[email@domain.com](mailto:email@domain.com)

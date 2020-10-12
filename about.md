@@ -1,15 +1,14 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /关于/
 ---
 
-Some information about you!
-
+Nationturbo的博客
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+weibo：Nationturbo
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[q137163@163.com](mailto:email@domain.com)

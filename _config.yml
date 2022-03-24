@@ -9,7 +9,7 @@ name: Nationturbo
 description: 欢迎来到Nationturbo的博客
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://github.com/Nationturbo/nationturbo.io/images/logo.jpg
 
 #
 # Flags below are optional
@@ -25,7 +25,7 @@ footer-links:
   instagram:
   linkedin:
   pinterest:
-  rss: https://weibo.com/u/6047962822
+  rss: #
   twitter: 
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
